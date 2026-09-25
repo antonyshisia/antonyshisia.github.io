@@ -35,5 +35,31 @@ Please check out my [GitHub Profile](https://github.com/antonyshisia) Additional
   <h1> Welcome Everyone</h1.
   <p>Welcome to my step by step learning journey on GitHub.</p>
 </body>
-</html>\`\`\`
-> And whether or not it is clear to you, no doubt the universe is unfolding as it should. Therefore be at peace with God, whatever you conceive Him to be. And whatever your labors and aspirations, in the noisy confusion of life, keep peace in your soul. With all its sham, drudgery and broken dreams, it is still a beautiful world. Be cheerful. Strive to be happy.-Max Ehrmann 1927
+</html>
+```
+
+>And whether or not it is clear to you, no doubt the universe is unfolding as it should. Therefore be at peace with God, whatever you conceive Him to be. And whatever your labors and aspirations, in the noisy confusion of life, keep peace in your soul. With all its sham, drudgery and broken dreams, it is still a beautiful world. Be cheerful. Strive to be happy.-Max Ehrmann 1927
+## About Me
+
+Hi there! I am Antony Shisia, a tech enthusiast. I am currently learning web development and version control using **Git** and **GitHub**.
+
+### My Goals
+- [x] Set up my GitHub profile
+- [x] Learn Markdown formatting
+- [ ] Master JavaScript and its fundermentals
+- [ ] Master Git terminal commands
+
+
+
+| Tool | Purpose | Link |
+| :--- | :--- | :--- |
+| **GitHub** | Code hosting & collaboration | [GitHub](https://github.com) |
+| **HTML5** | Web page structure | [MDN HTML Docs](https://developer.mozilla.org/en-US/docs/Web/HTML) |
+
+```html
+<!DOCTYPE html>
+<html>
+  <body>
+    <h1>This is My Profile</h1>
+  </body>
+</html>
